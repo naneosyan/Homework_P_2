@@ -7,13 +7,13 @@
 #         count += 1    
 # print(count if count<n/2 else n-count)
 
-# # 2
-# x=int(input())
-# y=int(input())
-# for i in range (x):
-#     for j in range (y):
-#         if x==i+j and y==i*j:
-#             print (i,j)
+# # 2 The sum of two numbers (x and y) is s; the product of the same two numbers (x and y) is p. Find x and y.
+# s=int(input())
+# p=int(input())
+# for x in range (s):
+#     for y in range (p):
+#         if s==x+y and p==x*y:
+#             print (x,y)
 
 
 # # 3
